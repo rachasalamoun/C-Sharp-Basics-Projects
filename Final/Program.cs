@@ -17,8 +17,8 @@ class Program
             // Create a new student object
             var student = new Student
             {
-                FirstName = "Mhd",
-                LastName = "Imad",
+                FirstName = "RACHA",
+                LastName = "SALAMOUN",
                 DateOfBirth = new DateTime(1995,11, 9)
             };
 
